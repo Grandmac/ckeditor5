@@ -1,6 +1,6 @@
 {
   "name": "@manakincubber/ckeditor5-build-tiime",
-  "version": "37.1.0",
+  "version": "37.1.1",
   "description": "The document editor build of CKEditor 5 – the best browser-based rich text editor.",
   "keywords": [
     "ckeditor5-build",
@@ -49,8 +49,8 @@
     "@ckeditor/ckeditor5-paragraph": "^37.1.0",
     "@ckeditor/ckeditor5-paste-from-office": "^37.1.0",
     "@ckeditor/ckeditor5-table": "^37.1.0",
-    "@manakincubber/ckeditor5-placeholder-value": "^0.0.2",
-    "@ckeditor/ckeditor5-typing": "^37.1.0"
+    "@ckeditor/ckeditor5-typing": "^37.1.0",
+    "@manakincubber/ckeditor5-placeholder-value": "^0.0.4"
   },
   "devDependencies": {
     "@ckeditor/ckeditor5-core": "^37.1.0",
